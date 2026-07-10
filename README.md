@@ -70,9 +70,9 @@ Models share a common quota.
 - [openai/gpt-oss-20b:free](https://openrouter.ai/openai/gpt-oss-20b:free)
 - [poolside/laguna-m.1:free](https://openrouter.ai/poolside/laguna-m.1:free)
 - [poolside/laguna-xs-2.1:free](https://openrouter.ai/poolside/laguna-xs-2.1:free)
-- [poolside/laguna-xs.2:free](https://openrouter.ai/poolside/laguna-xs.2:free)
 - [qwen/qwen3-coder:free](https://openrouter.ai/qwen/qwen3-coder:free)
 - [qwen/qwen3-next-80b-a3b-instruct:free](https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct:free)
+- [tencent/hy3:free](https://openrouter.ai/tencent/hy3:free)
 
 ### [Google AI Studio](https://aistudio.google.com)
 
